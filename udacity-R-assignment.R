@@ -65,7 +65,7 @@ qplot(x = User.Type, y = Trip.Duration/60,
       ylab = "Trip Duration (minutes)",
       main = "Occasional customers take longer trips than subscribers (all cities combined)",
       geom = 'boxplot') +
-  coord_cartesian(ylim = c(0,45))
+  coord_cartesian(ylim = c(0,60))
 
 
 
