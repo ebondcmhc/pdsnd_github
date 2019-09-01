@@ -17,7 +17,7 @@ This project uses R to analyse bike share data across three cities:  Chicago, Ne
 * new-york-city.csv
 * washington.csv
 
-**R program
+**R programs**
 * udacity-R-assignment.R
 
 ### R packages used
@@ -27,5 +27,5 @@ This project uses R to analyse bike share data across three cities:  Chicago, Ne
 Both of these packages are part of the [tidyverse](https://www.tidyverse.org/).
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was generated using the content of the Udacity *Programming for Data Science with R* program as reference.
 
