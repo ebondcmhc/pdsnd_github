@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+September 1, 2019
 
 ### Project Title
-Replace the Project Title
+Udacity Bike Share data analysis in R
 
 ### Description
 Describe what your project is about and what it does
