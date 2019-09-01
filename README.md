@@ -12,7 +12,19 @@ This project uses R to analyse bike share data across three cities:  Chicago, Ne
 * How do trip durations vary by type of user?
 
 ### Files used
-Include the files used
+**Data**
+* chicago.csv
+* new-york-city.csv
+* washington.csv
+
+**R program
+* udacity-R-assignment.R
+
+### R packages used
+* ggplot2
+* dplyr
+
+Both of these packages are part of the [tidyverse](https://www.tidyverse.org/).
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
