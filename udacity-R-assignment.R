@@ -19,6 +19,9 @@ tail(combined)
 #Trip duration is in seconds, so /60 for minutes
 qplot(x = City, y = Trip.Duration/60,
       data = combined,
+      xlab = "City",
+      ylab = "Trip Duration (minutes)",
+      main = "Distribution of trip duration by city",
       geom = 'boxplot')
 
 #We see that there are some outlier trips with unusually long lengths, while most trips are much shorter
