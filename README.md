@@ -5,7 +5,11 @@ September 1, 2019
 Udacity Bike Share data analysis in R
 
 ### Description
-Describe what your project is about and what it does
+This project uses R to analyse bike share data across three cities:  Chicago, New York, and Washington.  The program reads in the data and generates visualizations to explore three questions:
+
+* How do trip durations compare between cities?
+* What types of user are most common in each city?
+* How do trip durations vary by type of user?
 
 ### Files used
 Include the files used
